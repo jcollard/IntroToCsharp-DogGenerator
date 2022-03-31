@@ -1,0 +1,3 @@
+Example:
+  src: main.cs
+  target: wwwroot/examples/csharp/RandomDogGenerator.cs
